@@ -10,11 +10,6 @@ Welcome to the **Flutter Intro Screen** project! This Flutter app demonstrates h
 - **Next Button**: Navigate through the intro screens step-by-step.
 - **Done Button**: Finish the intro and navigate to the main app.
 
-## Screenshots
-
-![Intro Screen 1](screenshots/screen1.png)  
-![Intro Screen 2](screenshots/screen2.png)  
-![Intro Screen 3](screenshots/screen3.png)  
 
 ## How to Use
 
